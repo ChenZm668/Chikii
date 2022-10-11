@@ -1,4 +1,4 @@
-# Rayon
+# Chikii
 
 A server monitor tool for linux based machines using remote proc file system with script execution. Available for macOS 12+ & iOS 15+.
 
