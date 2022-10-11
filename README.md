@@ -6,10 +6,6 @@ The project has completed my requirements without serious defects and is now arc
 
 **The App Store Package is now sold to 3rd developer because our Developer Program has expired. It does NOT keep relation to this repository anymore.**
 
-## Preview
-
-![Preview](./Resources/Preview.png)
-![Preview+iOS](./Resources/Preview+iOS.jpeg)
 
 ## Features
 
